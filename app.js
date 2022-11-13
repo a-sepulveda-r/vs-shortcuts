@@ -6,9 +6,8 @@ console.log("manolito 34: quiero una pizza we 😎");
 console.error("pizzero: NO HAY WE!! 😣🤬🤬");
 console.log("manolito 34: pero busca we: 🥴");
 console.warn("Ya voy a buscar we... 🙄🙄");
-console.warn("manolito 34: pero busca we: 🥴");
-console.log("pov la escupe xD");
-console.log("ya toma we 😑: 🍕🍕🍕");
+console.warn("pizzero: pov la escupe xD");
+console.log("pizzero: ya toma we 😑: 🍕🍕🍕");
 // ccl→	console.clear()
 // cer→	console.error(object)
 // cgr→	console.group(label)
