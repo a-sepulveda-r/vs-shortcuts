@@ -15,3 +15,4 @@ console.log("pizzero: ya toma we 😑: 🍕🍕🍕");
 // ctr→	console.trace(object)
 // cwa→	console.warn
 // cin→	console.info
+console.error("esto es un error");
